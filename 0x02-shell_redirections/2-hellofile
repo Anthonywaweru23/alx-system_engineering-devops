@@ -1,0 +1,2 @@
+#!/bin/bzsh
+cat /etc/passwd
